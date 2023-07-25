@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isIbra
-- 👀 I’m interested in Web Development & Games Development
+- 👀 I’m interested in Web Development , IoT & Games Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me Discord: Ibra#6666
 
